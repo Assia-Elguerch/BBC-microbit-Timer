@@ -4,9 +4,10 @@
 
 The project is created by BBC micro:bit, it is times and it counts seconds from 0 
 
-
+## Instructions 
 > Button a : Start time
 > Button b : Stop and start from 0
+
 
 ## The Code Source
 
